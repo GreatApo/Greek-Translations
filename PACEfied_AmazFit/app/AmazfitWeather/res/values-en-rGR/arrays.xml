@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Κυρ</item>
+        <item>Δευ</item>
+        <item>Τρι</item>
+        <item>Τετ</item>
+        <item>Πεμ</item>
+        <item>Παρ</item>
+        <item>Σαβ</item>
+        <item>Σήμερα</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Εξαίρετος αέρας</item>
+        <item>Καλός αέρας</item>
+        <item>Ήπια ρύπανση</item>
+        <item>Μέτρια ρύπανση</item>
+        <item>Βαριά ρύπανση</item>
+        <item>Σοβαρή ρύπανση</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Κατάλληλος για άθληση</item>
+        <item>Ακατάλληλος για άθληση</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Ηλιόλουστος</item>
+        <item>Συννεφιασμένος</item>
+        <item>Συννεφιά</item>
+        <item>Ομίχλη</item>
+        <item>Νέφος</item>
+        <item>Shower</item>
+        <item>Thunder shower</item>
+        <item>Ασθενής βροχόπτωση</item>
+        <item>Βροχή</item>
+        <item>Δυνατή βροχόπτωση</item>
+        <item>Καταιγίδα</item>
+        <item>Καταρρακτώδης βροχή</item>
+        <item>Sleet</item>
+        <item>Κατάψυξη βροχής</item>
+		<item>Χαλάζι</item>
+		<item>Ασθενής χιονόπτωση</item>
+		<item>Χιονόπτωση</item>
+		<item>Δυνατή χιονόπτωση</item>
+		<item>Χιονοθύελλα</item>
+		<item>Βροχή χιονιού</item>
+		<item>Σκόνη</item>
+		<item>Αμμώδεις άνεμος</item>
+		<item>Αμμοθύελλα</item>
+		<item>Ισχυρή Αμμοθύελλα</item>
+		<item>Δεν υπάρχουν δεδομένα</item>
+    </string-array>
+</resources>
