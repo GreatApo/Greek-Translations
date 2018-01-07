@@ -1,5 +1,6 @@
-# Greek-Translations
-Greek translations for various software
+<p align="center"><img src="logos/greek-translations.jpg"/></p>
+<h1 align="center">Greek Translations</h1>
+<h4 align="center">for various software</h4>
 
 Project | Translation status | Other translators | Link | Status
 ------------ | ------------- | ------------- | -------------  | ------------- 
