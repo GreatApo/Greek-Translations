@@ -51,6 +51,10 @@
     <string name="update_available">Διαθέσιμη Ενημέρωση</string>
     <string name="installed">Εγκαταστάθηκε</string>
     <string name="not_installed">Μη εγκατεστημένη</string>
+    <string name="updated_on">Αναβαθμίστηκε στις: %1$s</string>
+    <string name="sorting_order">Ταξινόμηση κατά</string>
+    <string name="sort_by_name">Ταξινόμηση κατά όνομα</string>
+    <string name="sort_by_update">Ταξινόμηση κατά τελευταία αναβάθμιση</string>			  
 
     <!--Log Fragment-->
     <string name="menuSaveLog">"Αποθήκευση καταγραφής "</string>
@@ -62,10 +66,8 @@
 
     <!--About Activity-->
     <string name="about">Περί</string>
-    <string name="app_developers">Κύριοι προγραμματιστές</string>
-    <string name="app_developers_"><![CDATA[Η εφαρμογή δημιουργήθηκε από τον <a href="https://github.com/topjohnwu">topjohnwu</a> σε συνεργασία με <a href="https://github.com/d8ahazard">Digitalhigh</a> και <a href="https://github.com/dvdandroid">Dvdandroid</a>.]]></string>
     <string name="app_changelog">Καταγραφή αλλαγών εφαρμογής</string>
-    <string name="translators">JpegXguy, GreatApo</string>
+    <string name="translators">GreatApo, JpegXguy</string>
     <string name="app_version">Έκδοση εφαρμογής</string>
     <string name="app_source_code">Πηγαίος κώδικας</string>
     <string name="donation">Δωρεά</string>
@@ -74,7 +76,6 @@
 
     <!--Toasts, Dialogs-->
     <string name="permissionNotGranted">Η λειτουργία αυτή δεν θα δουλέψει χωρίς την άδεια εγγραφής στον εξωτερικό χώρο αποθηκεύσης.</string>
-    
     <string name="no_thanks">Όχι ευχαριστώ</string>
     <string name="yes">Ναι</string>
     <string name="ok">OK</string>
@@ -84,7 +85,6 @@
     <string name="download">Λήψη</string>
     <string name="download_file_error">Σφάλμα στη λήψη του αρχείου</string>
     <string name="reboot">Επανεκκίνηση</string>
-    
     <string name="downloading_toast">Κατέβασμα %1$s</string>
     <string name="magisk_update_title">Νέα Ενημέρωση Magisk Διαθέσιμη!</string>
     <string name="settings_reboot_toast">Επανεκκίνηση για εφαρμογή ρυθμίσεων</string>
@@ -131,7 +131,6 @@
     <string name="settings_clear_cache_title">Εκκαθάριση προσωρινής μνήμης αποθετηρίων</string>
     <string name="settings_clear_cache_summary">Καθαρίζει τις κρυφές πληροφορίες για απευθείας συνδεδεμένα αποθετήρια, αναγκάζει την εφαρμογή να κάνει ανανέωση σε απευθείας σύνδεση</string>
     <string name="settings_hide_manager_title">Απόκρυψη του Magisk Manager</string>
-    
     <string name="settings_hide_manager_summary">Ανασυγκρότηση του Magisk Manager με τυχαίο όνομα πακέτου</string>
     <string name="language">Γλώσσα</string>
     <string name="system_default">(Προεπιλογή Συστήματος)</string>
@@ -143,7 +142,6 @@
     <string name="settings_update_custom_msg">Εισαγωγή ενός custom URL</string>
     <string name="settings_boot_format_title">Μορφή Τροποποιημένης Εικόνας Boot</string>
     <string name="settings_boot_format_summary">Επιλέξτε τη μορφή της εξαγόμενης εικόνας boot μετά το patch.\nΕπιλέξτε .img για flash μέσω λειτουργίας fastboot/download· επιλέξτε .img.tar για flash μέσω ODIN.</string>
-
     <string name="settings_core_only_title">Magisk Λειτουργία Πυρήνα Μόνο</string>
     <string name="settings_core_only_summary">Ενεργοποίηση μόνο των λειτουργιών πυρήνα, καμία από τις ενότητες δεν θα ενεργοποιηθεί. Τα MagiskSU, MagiskHide, και systemless hosts θα παραμείνουν ενεργά</string>
     <string name="settings_magiskhide_summary">Κρύβει το Magisk από διάφορες ανιχνεύσεις</string>
@@ -191,7 +189,6 @@
     <string name="prompt">Προτροπή</string>
     <string name="grant">Αποδοχή</string>
     <string name="su_warning">Δίνει πλήρη πρόσβαση στη συσκευή σας.\nΑρνηθείτε αν δεν είστε σίγουρος/η!</string>
-    
     <string name="forever">Πάντα</string>
     <string name="once">Μία φορά</string>
     <string name="tenmin">10 λεπτά</string>
